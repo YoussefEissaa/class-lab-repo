@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Youssef Eissa  
+- Certification: Version control from coursera
 
 ## Instructions
 Please replace the placeholders with your details:
